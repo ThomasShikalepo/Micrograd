@@ -40,8 +40,7 @@ To get started, clone the repository and install the necessary dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/micrograd-implementation.git
-
+git clone https://github.com/ThomasShikalepo/Micrograd.git
 # Install the required dependencies
 cd micrograd-implementation
 pip install -r requirements.txt
